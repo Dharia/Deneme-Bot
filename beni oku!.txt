@@ -1,2 +1,4 @@
 1.Botun idsini girmezsen bot çalışmaz!
+2.Modül hatası alıyorsanız 'npm install modül ismi' yazarak modülü yüklersiniz.
 2.Shift+sağ tık yaparak powershelle girin 'npm init'yazıp videodaki gibi işlemleri yapınız node modules adında klasör oluşacaktır herşeyi yaptıysan artık botunu aktif edebilirsin! 
+
